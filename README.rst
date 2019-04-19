@@ -12,9 +12,9 @@
 
 * `Sphinx Documentation Generator <http://www.sphinx-doc.org/>`_
 
-Pre-release software
---------------------
+.. Pre-release software
+   --------------------
 
-* `docutils-js <http://github.com/kaymccormick/docutils-js>`_
+   * `docutils-js <http://github.com/kaymccormick/docutils-js>`_
     
 .. |awesome| image:: badge.svg
