@@ -12,6 +12,12 @@
 
 * `Sphinx Documentation Generator <http://www.sphinx-doc.org/>`_
 
+------------------------
+ Documentation & Guides
+------------------------
+
+* `RST & Sphinx Cheatsheet <https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html>`_
+
 .. Pre-release software
    --------------------
 
