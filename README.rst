@@ -25,8 +25,8 @@ To reST or not to reST?
 
 * `reStructuredText vs Markdown for documentation
   <http://www.zverovich.net/2016/06/16/rst-vs-markdown.html>`_ - An
-  excellent write up on the *pros and cons* of using reST versus
-  MarkDown.
+  excellent write up on the *pros and cons* of two prominent
+  documentation formats.
 
 .. Pre-release software
    ====================
