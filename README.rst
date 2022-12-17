@@ -19,6 +19,8 @@ Documentation & Guides
 * `RST & Sphinx Cheatsheet
   <https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html>`_ -
   Needs review to authenticate awesomeness.
+* `Live RST Playground
+  <https://waldyrious.github.io/rst-playground>`_ - Render reStructuredText content directly in the browser
 
 To reST or not to reST?
 =======================
